@@ -1,6 +1,6 @@
 # Leya
 
-##Instructions
+## Instructions
 
 1 - Create the repository in www.Github.com
 

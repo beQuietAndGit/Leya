@@ -78,7 +78,7 @@ test.describe('Proposed Scenarios', () => {
 
 test.describe('Aditional test cases', () => {
 
-    test.only('Scenario 6 - Change a value (usually dynamic) in the dom for testing purposes', async ({ page }) => {
+    test('Scenario 6 - Change a value (usually dynamic) in the dom for testing purposes', async ({ page }) => {
 
         await searchForBook(page, '1984')
 
